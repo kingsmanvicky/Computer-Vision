@@ -1,0 +1,1 @@
+image = cv2.resize(image, (800, 600))
